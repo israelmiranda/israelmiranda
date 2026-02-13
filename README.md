@@ -1,4 +1,4 @@
-## Hi 👋, I'm Israel Miranda, principal software engineer and systems architect. 
+## Hi 👋, I'm Israel Miranda, senior software engineer and systems architect. 
 
 
 <div align="center">
