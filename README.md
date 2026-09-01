@@ -1,19 +1,5 @@
 ## Hi 👋, I'm Israel Miranda, senior software engineer and systems architect. 
 
-
-<div align="center">
-  <a href="https://github.com/israelmiranda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelmiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelmiranda&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Miranda-Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Miranda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
-  <img align="center" alt="Miranda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Miranda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Miranda-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Miranda-K8s" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-
 ##
 
 <div> 
